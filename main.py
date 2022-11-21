@@ -4,6 +4,7 @@ set_b = {4, 5, 6, 7, 8}
 set_c = {7, 8, 9, 10, 11}
 '''
 
+
 #1
 set_a.update(set_b, set_c)
 print(set_a)
